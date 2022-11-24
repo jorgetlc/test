@@ -1,1 +1,1 @@
-pytho test.py
+python test.py -i /home/jorte/depor.txt
